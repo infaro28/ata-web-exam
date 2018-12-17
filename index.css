@@ -5,9 +5,17 @@ body {
     background-attachment: fixed;
 }
 .navbar{
-    background-color: rgb(230,175,180, 0.8);
+    background-color: rgb(230,175,154, 0.8);
 }
 .jumbotron{
     background-color: rgb(200,200,200, 0.6);
+    padding: 2rem 2rem ;
+}
+.col-4{
+    background-color:  rgb(200,200,200, 0.6);
+}
+}
+.btn{
+    border-radius: 1em;
 }
 
