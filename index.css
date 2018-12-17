@@ -11,19 +11,32 @@ body {
     background-color: rgb(200,200,200, 0.6);
     padding: 2rem 2rem ;
 }
+.col-4{
+    padding: 0;
+    background-color:  rgb(175,175,175, 0.7);
+    border-radius: 10em 0em 0em 10em;
+}
 .album1{
     border-radius: 1em;
-    width: 53%;
+    width: 70%;
     display: flex;
-    margin: 4rem auto;
+    margin: 1rem 0rem 1rem 6rem;
+}
+.audio{
+    margin:1rem 0rem 1rem 6rem;
 }
 .col-5{
     background-color:  rgb(200,200,200, 0.6);
     padding: 0;
-    border-radius: 1em;
+    border-radius: 0em 10em 10em 0em;
 }
 .btn{
     border-radius: 1em;
 }
+.col-3{
+    border-radius: 12em 0em 12em 12em;
+    background-color:  rgba(195,100,250, 0.3);
+}
+
 
 
