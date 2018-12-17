@@ -1,5 +1,5 @@
 body {
-    background-image: url("pics/fondo.jpg");
+    background-image: url("pics/like.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -11,11 +11,19 @@ body {
     background-color: rgb(200,200,200, 0.6);
     padding: 2rem 2rem ;
 }
-.col-4{
-    background-color:  rgb(200,200,200, 0.6);
+.album1{
+    border-radius: 1em;
+    width: 53%;
+    display: flex;
+    margin: 4rem auto;
 }
+.col-5{
+    background-color:  rgb(200,200,200, 0.6);
+    padding: 0;
+    border-radius: 1em;
 }
 .btn{
     border-radius: 1em;
 }
+
 
