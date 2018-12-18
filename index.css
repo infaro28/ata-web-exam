@@ -18,23 +18,23 @@ body {
 }
 .album1{
     border-radius: 1em;
-    width: 70%;
+    width: 76%;
     display: flex;
-    margin: 1rem 0rem 1rem 6rem;
+    margin: 5rem 5rem 5rem 2rem;
 }
 .audio{
-    margin:1rem 0rem 1rem 6rem;
+    margin:0;
 }
-.col-5{
+.col-6{
     background-color:  rgb(200,200,200, 0.6);
     padding: 0;
-    border-radius: 0em 10em 10em 0em;
+    border-radius: 0em 0em 0em 0em;
 }
 .btn{
     border-radius: 1em;
 }
-.col-3{
-    border-radius: 12em 0em 12em 12em;
+.col-2{
+    border-radius: 0em 10em 10em 0em;
     background-color:  rgba(195,100,250, 0.3);
 }
 
